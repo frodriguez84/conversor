@@ -1,9 +1,30 @@
-#dolCol {
-    height: 300px;
+#formulario{
+    background-color: aqua;
+    align-items: center;
+    width: 400px;
+    margin: auto;
+    border-radius: 3%;
+    padding: 3%;
+    
+}
+
+#dolCol, #col{
+    height: 80px;
     width: 300px;
+    font-size: 20;
+}
 
-  }
+#result{
+    background-color: crimson;
+    width: 400px;
+    height: 70px;
+    font-size: 40;
+    font-style: oblique;
+    margin: auto;
 
-#valPeso {
-    size: 40px;
+}
+
+#submit{
+    height: 40px;
+    
 }
